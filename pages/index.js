@@ -80,7 +80,7 @@ export default function Home() {
               <a href='mailto:jackyoukstetter1@gmail.com' target="_blank" style={{ color: 'black', marginRight: '3px' }}>
                 <EmailIcon />
               </a>
-              <a href='/therealresume.pdf' target="_blank" style={{ color: 'black', marginRight: '3px', fontWeight: 'bold' }}>
+              <a href='/resumeThanksgiving.pdf' target="_blank" style={{ color: 'black', marginRight: '3px', fontWeight: 'bold' }}>
                 Resume
               </a>
             </div>
